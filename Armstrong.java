@@ -25,6 +25,7 @@ public class Armstrong{
 	  }
 	  } 
 	System.out.println(fact);
+        System.out.println(fact);
 		}
 	
    }
