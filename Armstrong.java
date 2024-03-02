@@ -7,6 +7,7 @@ public class Armstrong{
 	static int fact=1;
 	public static void main(String[] args) {
 		System.out.println("Enter the number");
+		System.out.println("Iam vivek");
 		//int num= s.nextInt();
 		int num=9474;
 	     int temp=num;
